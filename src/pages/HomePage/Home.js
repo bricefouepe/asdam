@@ -1,5 +1,5 @@
 import React from 'react';
-import { homeObjOne, homeObjTwo, homeObjThree, homeObjFour } from './Data';
+import { homeObjTwo, homeObjThree } from './Data';
 import { InfoSection, Pricing } from '../../components';
 import {Paper} from "@material-ui/core";
 import './home.css';
